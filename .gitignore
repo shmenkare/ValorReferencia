@@ -1,0 +1,9 @@
+ValorReferencia.csproj
+ValorReferencia.sln
+ValorReferencia.suo
+.gitattributes
+Properties/
+bin/
+obj/
+App.config
+.vs/
